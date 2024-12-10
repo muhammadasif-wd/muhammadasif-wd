@@ -49,9 +49,8 @@ Interlink TechSoft Ltd.](https://www.intertechbd.com/).
   
 <h3 align="left">Latest Blog Posts</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/19-open-source-tools-you-should-bookmark-now-5hc4">🧙‍♂️19 Open-Source Tools You Should Bookmark Now🔖</a></li>
-  <li><a href="https://dev.to/dev_kiran/automq-a-cloud-native-replacement-of-apache-kafka-59mg">AutoMQ: A Cloud-Native Replacement of Apache Kafka</a></li>
-  <li><a href="https://dev.to/dev_kiran/boost-your-dev-workflow-with-these-top-tools-4k66">🚀Boost Your Dev Workflow with These Top Tools</a></li>
+  <li><a href="https://dev.to/muhammadasif_wd/setting-up-jetbrains-mono-font-on-ubuntu-is-straightforward-5d8i">Setting up JetBrains Mono font on Ubuntu is straightforward</a></li>
+  <li><a href="https://dev.to/muhammadasif_wd/step-by-step-guide-to-setting-up-husky-eslint-and-prettier-in-a-nextjs-typescript-project-2f2l">Step-by-Step Guide to Setting Up Husky, ESLint, and Prettier in a Next.js TypeScript Project</a></li>
 </ul>
 <br />
 <br />
