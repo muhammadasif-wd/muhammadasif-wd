@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Aꜱɪꜰ! 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴜʜᴀᴍᴍᴀᴅ Aꜱɪꜰ!
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
@@ -25,7 +25,7 @@ Interlink TechSoft Ltd.](https://www.intertechbd.com/).
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+ <img src="https://komarev.com/ghpvc/?username=muhammadasif-wd&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="muhammadasif-wd" style="padding-right:20px;" />
 </p>
 
 ---
