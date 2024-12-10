@@ -497,7 +497,7 @@ Interlink TechSoft Ltd.](https://www.intertechbd.com/).
 <img src="./instagram.png" width=50 height=50 alt="muhammadasif_wd" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/muhammadasif-wd" target="_blank">
+<a href="https://www.github.com/muhammadasif-wd" target="_blank">
 <img src="./github.png" width=50 height=50 alt="muhammadasif-wd" style="margin-bottom: 5px;" />
 </a>
 
