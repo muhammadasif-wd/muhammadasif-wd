@@ -10,13 +10,12 @@
 <p align="left">I am a Software Engineer | Java, Python, JavaScript & TypeScript | React.js, Vue.js, Node.js, Express.js, Nest.js, Django & Spring Boot | PostgreSQL, MySQL & MongoDB | Building Scalable & High-Performance Web Solutions.
 </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
-- ⚒️ Software Developer with 2 years of experience working on JavaScript, React.js, Node.js, and Express.js at [
-Interlink TechSoft Ltd.](https://www.intertechbd.com/).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/muhammadasif_wd).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://muhammadasif.vercel.app/) for more details about me.
+- ✨ Embracing life as a perpetual student, learning and growing daily! 😊
+- 🌱 On a journey of continuous learning, making every day an opportunity to grow and explore! 🚀
+- ⚒️ Software Developer with 2+ years of experience in JavaScript, TypeScript, React.js, and Next.js @ [Interlink TechSoft Ltd.](https://www.intertechbd.com/) 🚀
+- ✍ Passionate about sharing knowledge! Check out my technical blogs on [DEV](https://dev.to/muhammadasif_wd) and join the conversation. 🚀
+- ❤ Dedicated to making an impact through Open Source contributions and collaboration. 🌍✨
+- 💻 Explore more about my journey and work on my [Portfolio](https://muhammadasif.vercel.app/). 🚀
 <!--End Intro-->
 
 <!--Profile Count Badge-->
