@@ -25,11 +25,10 @@
 
 ---
 
-
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ 🛠️</h2>
+<h3 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ 🛠️</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-F8B800?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -48,25 +47,23 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+<br />
+
+<h3 align="left">🔍 Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h3>
+<ul align="left">
+  <li>📚 Deepening my knowledge in <strong>Machine Learning</strong> and <strong>AI</strong>.</li>
+  <li>⚛️ Exploring advanced <strong>React.js</strong> patterns and state management techniques.</li>
+  <li>☁️ Improving my skills in <strong>cloud computing</strong> with <strong>AWS</strong> and <strong>Azure</strong>.</li>
+</ul>
+
+<h3 align="left">📝 Lᴀᴛᴇsᴛ Bʟᴏɢ Pᴏsᴛs</h3>
+<ul align="left">
+  <li>🖋️ <a href="https://dev.to/muhammadasif_wd/setting-up-jetbrains-mono-font-on-ubuntu-is-straightforward-5d8i">Setting up JetBrains Mono font on Ubuntu is straightforward</a></li>
+  <li>🖋️ <a href="https://dev.to/muhammadasif_wd/step-by-step-guide-to-setting-up-husky-eslint-and-prettier-in-a-nextjs-typescript-project-2f2l">Step-by-Step Guide to Setting Up Husky, ESLint, and Prettier in a Next.js TypeScript Project</a></li>
+</ul>
 
 <br />
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-  
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to/muhammadasif_wd/setting-up-jetbrains-mono-font-on-ubuntu-is-straightforward-5d8i">Setting up JetBrains Mono font on Ubuntu is straightforward</a></li>
-  <li><a href="https://dev.to/muhammadasif_wd/step-by-step-guide-to-setting-up-husky-eslint-and-prettier-in-a-nextjs-typescript-project-2f2l">Step-by-Step Guide to Setting Up Husky, ESLint, and Prettier in a Next.js TypeScript Project</a></li>
-</ul>
-<br />
-<br />
-<br />
-<br />
 
 
 <!--Trophies Section-->   
