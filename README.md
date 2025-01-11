@@ -66,6 +66,8 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
 <table width="100%">
   <tr>
     <td width="50%">
@@ -87,7 +89,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Uѕᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h4 align="center"><strong>Tᴏᴘ Uѕᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h4>
       <p align="center">
         <a href="https://github.com/muhammadasif-wd/muhammadasif-wd">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-wd&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Used Languages" />
@@ -112,16 +114,9 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/muhammadasif-wd">
-          <img align="center" width="470" src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
+
 
 
 <!--Contribution Graph-->
