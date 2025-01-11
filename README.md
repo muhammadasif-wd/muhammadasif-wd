@@ -85,20 +85,20 @@
       </p>
     </td>
   </tr>
-   <tr>
-   <td width="50%">
-  <h3 align="center"><strong>Tᴏᴘ Uѕᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
-  <p align="center">
-    <a href="https://github.com/muhammadasif-wd/muhammadasif">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-wd&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Used Languages" />
-    </a>
-  </p>
-</td>  
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Uѕᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/muhammadasif-wd/muhammadasif-wd">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-wd&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Used Languages" />
+        </a>
+      </p>
+    </td>  
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/muhammadasif-wd">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" width="470" src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -108,7 +108,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/muhammadasif-wd/muhammadasif">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadasif-wd&repo=muhammadasif&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadasif-wd&repo=muhammadasif&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -116,13 +116,13 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/muhammadasif-wd">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" width="470" src="https://github-contributor-stats.vercel.app/api?username=muhammadasif-wd&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-<br />
+
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
