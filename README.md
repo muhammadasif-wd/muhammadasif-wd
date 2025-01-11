@@ -4,9 +4,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴜʜᴀᴍᴍᴀᴅ Aꜱɪꜰ!
-*Software Engineer 🖥*
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴜʜᴀᴍᴍᴀᴅ Aꜱɪꜰ!<br /> 
 
 <!--Start Intro-->               
 <p align="left">I am a Software Engineer | Java, Python, JavaScript & TypeScript | React.js, Vue.js, Node.js, Express.js, Nest.js, Django & Spring Boot | PostgreSQL, MySQL & MongoDB | Building Scalable & High-Performance Web Solutions.
