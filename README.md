@@ -9,7 +9,8 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, REST API, and Data Visualization.</p>
+<p align="left">I am a Software Engineer | Java, Python, JavaScript & TypeScript | React.js, Vue.js, Node.js, Express.js, Nest.js, Django & Spring Boot | PostgreSQL, MySQL & MongoDB | Building Scalable & High-Performance Web Solutions.
+</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
