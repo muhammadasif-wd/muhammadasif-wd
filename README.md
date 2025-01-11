@@ -104,8 +104,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>Tᴏᴘ Uѕᴇᴅ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+    <td>
       <p align="center">
         <a href="https://github.com/muhammadasif-wd/muhammadasif-wd">
           <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif-wd&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Used Languages" />
