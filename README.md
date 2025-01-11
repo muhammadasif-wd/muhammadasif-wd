@@ -1,6 +1,3 @@
-<!--Banner-->
-<a href="https://app.daily.dev/muhammadasif_wd"><img src="https://api.daily.dev/devcards/v2/5ha5dAGr2iCDZiTImuVu9.png?type=wide&r=s42" width="652" alt="Muhammad Asif's Dev Card"/></a>
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
